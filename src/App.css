@@ -1,2 +1,5 @@
 main {
+  width: 10rem;
+  height: 20rem;
+  border: 1px solid black;
 }
